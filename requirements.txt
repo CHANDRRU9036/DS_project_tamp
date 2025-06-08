@@ -4,5 +4,6 @@ seaborn
 Scikit-learn
 catboost
 xgboost
+dill 
 
 -e .
